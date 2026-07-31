@@ -46,11 +46,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
----
-
 ## 📌 Overview
 
 **Operating Systems with C** is a collection of implementations and
